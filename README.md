@@ -21,6 +21,14 @@ logger('ok', 'Hello world')
 -   `silly` Magenta
 -   `white` Default. Used by logger after coloring - `logger('info', 'This will be white')`
 
+### Browser
+
+![Logger Browser](/logger_browser.png)
+
+### Terminal
+
+![Logger Terminal](/logger_terminal.png)
+
 ### Notice
 
 You can enable console tracer by editing logger file. I do plan on adding more features in the future.
