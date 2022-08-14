@@ -20,3 +20,7 @@ logger('ok', 'Hello world')
 -   `debug` Yellow/Orange
 -   `silly` Magenta
 -   `white` Default. Used by logger after coloring - `logger('info', 'This will be white')`
+
+### Notice
+
+You can enable console tracer by editing logger file. I do plan on adding more features in the future.
